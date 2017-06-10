@@ -10,7 +10,7 @@
 ### 基于Java 的管理系统
   * 文件名 ： ttms_java
   * UI界面设计，利用本地的 mysql进行数据存储
-  * 迷宫（c 语言）
+  * 入口： view/clerk/sign
   
   
 ### 迷宫
